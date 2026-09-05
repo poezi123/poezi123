@@ -113,9 +113,23 @@ Linux/kernel experimentation and customization.
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/poezi123/poezi123/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
-</div>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/poezi123/poezi123/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/poezi123/poezi123/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/poezi123/poezi123/gh-pages/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 ---
 
 ## 🌐 Find me
