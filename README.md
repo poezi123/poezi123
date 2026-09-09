@@ -2,7 +2,7 @@
 
 # `> leon@github:~$ whoami`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Cybersecurity+Engineer;Web+Developer;Security+Research+%7C+Linux+%7C+Open+Source;Building%2C+breaking%2C+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&lines=Cybersecurity+Engineer;Student+at+TUGRAZ;Web+Developer;Security+Research+%7C+Linux+%7C+Open+Source;Building%2C+breaking%2C+learning." alt="Typing SVG" />
 
 <br>
 
