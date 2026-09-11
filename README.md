@@ -78,7 +78,7 @@ A custom desktop-environment project with a focus on low-level experimentation a
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [PoeziCode](https://github.com/poezi123/poezicode)
+### 🗎 [PoeziCode](https://github.com/poezi123/poezicode)
 
 Write documents like code – get a clean PDF. Free for Windows and Linux. 
 
