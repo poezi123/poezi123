@@ -78,11 +78,11 @@ A custom desktop-environment project with a focus on low-level experimentation a
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [My Found Vulnerabilities](https://github.com/poezi123/My-found-Vulnerabilities)
+### 🛡️ [PoeziCode](https://github.com/poezi123/poezicode)
 
-A public place for documenting vulnerabilities and security findings discovered during research.
+Write documents like code – get a clean PDF. Free for Windows and Linux. 
 
-`Cybersecurity` `Research` `Vulnerabilities`
+`Windows` `Linux` `pdf`
 
 </td>
 </tr>
