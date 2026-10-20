@@ -105,11 +105,11 @@ Security tooling written in **Python**, built for scanning, experimentation and 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [Custom Cachy Kernel](https://github.com/poezi123/Custom-Cachy-Kernel-github)
+### ⚙️ [PoeziAI](https://github.com/poezi123/PoeziAI)
 
-Linux kernel experimentation, configuration and customization based around **CachyOS**.
+A local, from-scratch **LLM engine** and security agent, written in Rust..
 
-`Shell` `Linux` `Kernel`
+`Shell` `Machine Learning` `AI`
 
 </td>
 </tr>
